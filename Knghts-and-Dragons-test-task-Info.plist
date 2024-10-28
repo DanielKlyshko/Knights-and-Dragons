@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>BigShouldersStencilDisplay-Black.ttf</string>
+		<string>BigShouldersStencilDisplay-Bold.ttf</string>
+		<string>BigShouldersStencilDisplay-ExtraBold.ttf</string>
+		<string>BigShouldersStencilDisplay-Light.ttf</string>
+		<string>BigShouldersStencilDisplay-Medium.ttf</string>
+		<string>BigShouldersStencilDisplay-Regular.ttf</string>
+		<string>BigShouldersStencilDisplay-SemiBold.ttf</string>
+		<string>BigShouldersStencilDisplay-Thin.ttf</string>
+	</array>
+</dict>
+</plist>

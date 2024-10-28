@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "dragonBG.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
